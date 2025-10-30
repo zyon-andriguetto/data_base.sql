@@ -81,10 +81,10 @@ CREATE OR ALTER PROCEDURE InsertDadosPadrao
             @IDPROFESSOR int
 
 
-        SET @NOMEALUNO = 'Iago'
-        SET @NOMEPROFESSOR = 'CaneloAlvarez'
+        SET @NOMEALUNO = 'zyon'
+        SET @NOMEPROFESSOR = 'joaoDaCana'
         SET @SIGLACURSO = 'EDS'
-        SET @NOMECURSO = 'Engenharia de Software'
+        SET @NOMECURSO = 'Sistemas de informação'
         SET @NOMEMATERIA = 'Banco de Dados'
         SET @SIGLAMATERIA = 'BDA'
         SET @CARGAHORARIA = 72
